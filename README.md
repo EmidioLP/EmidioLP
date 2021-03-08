@@ -2,6 +2,8 @@
 
 My name is Emídio Lopes and I'm currently graduating in Computer Science at UERN - Universidade do Estado do Rio Grande do Norte. I live in Brazil and am very interested in Artificial Intelligence. 
 
+- 🌱 I’m currently learning Pytorch and R.
+
 Also, check me on [Linkedin](https://www.linkedin.com/in/emídio-lopes-de-souza-neto/).
 <!--
 **EmidioLP/EmidioLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
