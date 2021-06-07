@@ -1,5 +1,8 @@
 ### Hello There! 👋
 
+<img src="https://media1.tenor.com/images/78ac14aec72b4691de944619df3e6265/tenor.gif" align="center" style="width: 60%" />
+</br>
+
 My name is Emídio Lopes and I'm currently graduating in Computer Science at UERN - Universidade do Estado do Rio Grande do Norte. I live in Brazil and am very interested in Artificial Intelligence. 
 
 - 🌱 I’m currently learning Data Science and Tensorflow.
