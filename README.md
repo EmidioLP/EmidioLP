@@ -1,5 +1,3 @@
-### Hello There! 👋
-
 <img src="https://media1.tenor.com/images/78ac14aec72b4691de944619df3e6265/tenor.gif" align="center" style="width: 60%" />
 </br>
 
