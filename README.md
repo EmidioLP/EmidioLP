@@ -1,9 +1,10 @@
 <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif" align="center" style="width: 60%" />
 </br>
 
-My name is Emídio Lopes and I have a degree in computer science at UERN - Universidade do Estado do Rio Grande do Norte. I live in Brazil and am very interested in Artificial Intelligence. 
+Olá! Meu nome é Emídio Lopes e sou graduado em ciência da computação na UERN - Universidade do Estado do Rio Grande do Norte. Moro em Mossoró - RN e tenho bastante interesse nas áreas de Ciência de Dados e Inteligência Artificial.
 
-- 🌱 I’m currently learning Data Science and Tensorflow.
+
+- 🌱 Estou atualmente aprendendo Tensorflow e inteligência artificial.
 
 ## Contatos
 <a href='https://www.linkedin.com/in/emídio-lopes-de-souza-neto/' target='_blank'><img src='https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin'></a>
