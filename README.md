@@ -5,7 +5,8 @@ My name is Emídio Lopes and I have a degree in computer science at UERN - Unive
 
 - 🌱 I’m currently learning Data Science and Tensorflow.
 
-Also, check me on [Linkedin](https://www.linkedin.com/in/emídio-lopes-de-souza-neto/).
+## Contatos
+<a href='https://www.linkedin.com/in/emídio-lopes-de-souza-neto/' target='_blank'><img src='https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin'></a>
 <!--
 **EmidioLP/EmidioLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
