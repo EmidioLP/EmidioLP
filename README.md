@@ -1,6 +1,3 @@
-<img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif" align="center" style="width: 60%" />
-</br>
-
 Olá! Meu nome é Emídio Lopes, tenho 21 anos e sou graduando em ciência da computação na UERN - Universidade do Estado do Rio Grande do Norte. Moro em Mossoró - RN e tenho bastante interesse nas áreas de Ciência de Dados e Inteligência Artificial.
 
 
