@@ -2,6 +2,12 @@ Olá! Meu nome é Emídio Lopes, tenho 23 anos e sou graduado em ciência da com
 
 - 🎓 Bacharel em Ciência da Computação - UERN
 
+ <div>
+<a href="https://github.com/EmidioLP">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmidioLP&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmidioLP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <div>
  
  ## Ferramentas e Tecnologias
@@ -16,11 +22,12 @@ Olá! Meu nome é Emídio Lopes, tenho 23 anos e sou graduado em ciência da com
 ## Estou Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>        
- 
- ## Contatos
-<a href='https://www.linkedin.com/in/emídio-lopes-de-souza-neto/' target='_blank'><img src='https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin'></a>
- <a href="https://discord.gg/Lolpes#7652" target="_blank"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/DISCORD.svg" target="_blank"></a>
- <a href = "mailto:emidio551@gmail.com"><img src="https://github.com/marcos16165/marcos16165/blob/main/img/GMAIL.svg" target="_blank"></a>
+
+## Contatos
+<div>
+<a href = "mailto:emidio551@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/emídio-lopes-de-souza-neto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 <!--
 **EmidioLP/EmidioLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
