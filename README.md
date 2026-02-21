@@ -1,4 +1,4 @@
-Olá! Meu nome é Emídio Lopes, tenho 24 anos e sou graduado em ciência da computação na UERN - Universidade do Estado do Rio Grande do Norte. Moro em Baraúna - RN e tenho bastante interesse nas áreas de Ciência de Dados e Inteligência Artificial.
+Olá! Meu nome é Emídio Lopes, tenho 25 anos e sou graduado em ciência da computação na UERN - Universidade do Estado do Rio Grande do Norte. Moro em Baraúna - RN e tenho bastante interesse nas áreas de Ciência de Dados e Inteligência Artificial. Atualmente estudando backend com Java + Spring Boot.
 
 - 🎓 Bacharel em Ciência da Computação - UERN
 <div>
