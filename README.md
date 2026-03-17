@@ -4,7 +4,7 @@ Olá! Meu nome é Emídio Lopes, tenho 25 anos e sou graduado em ciência da com
 <div>
  
  ## Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=anaconda,git,mongodb,py,sklearn,tensorflow,vscode,mysql,sqlite)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=anaconda,git,py,sklearn,tensorflow,vscode,mysql,sqlite,mongodb)](https://skillicons.dev)    
 
 ## Contatos
 <div>
