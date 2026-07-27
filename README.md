@@ -1,7 +1,14 @@
-Olá! Meu nome é Emídio Lopes, tenho 25 anos e sou graduado em ciência da computação na UERN - Universidade do Estado do Rio Grande do Norte.
-
-- 🎓 Bacharel em Ciência da Computação - UERN
-<div>
+# Olá, eu sou Emídio Lopes 👋
+ 
+Bacharel em Ciência da Computação pela **UERN**, com foco em Python, automação e dados.
+ 
+## 🚀 Projetos em Destaque
+ 
+**[discord-flight-bot](https://github.com/EmidioLP/discord-flight-bot)** — Bot em Python que monitora preços de voos e notifica no Discord, rodando na nuvem via GitHub Actions com banco Turso e testes automatizados.
+ 
+**[sql-data-warehouse-project](https://github.com/EmidioLP/sql-data-warehouse-project)** — Data warehouse em SQL Server com Medallion Architecture (Bronze/Silver/Gold) e pipeline ETL completo, da ingestão à modelagem dimensional.
+ 
+**[databricks-project](https://github.com/EmidioLP/databricks-project)** — Data Lakehouse no Databricks usando Spark, PySpark, Delta Lake e Unity Catalog, também com arquitetura Medallion.
  
  ## Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,git,anaconda,vscode,mysql,sqlite,mongodb,postgres,linux,windows)](https://skillicons.dev)    
