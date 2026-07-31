@@ -2,16 +2,6 @@
  
 Bacharel em Ciência da Computação pela **UERN**, com foco em Python, automação e dados.
  
-## 🚀 Projetos em Destaque
- 
-**[discord-flight-bot](https://github.com/EmidioLP/discord-flight-bot)** — Bot em Python que monitora preços de voos e notifica no Discord, rodando na nuvem via GitHub Actions com banco Turso e testes automatizados.
- 
-**[sql-data-warehouse-project](https://github.com/EmidioLP/sql-data-warehouse-project)** — Data warehouse em SQL Server com Medallion Architecture (Bronze/Silver/Gold) e pipeline ETL completo, da ingestão à modelagem dimensional.
- 
-**[databricks-project](https://github.com/EmidioLP/databricks-project)** — Data Lakehouse no Databricks usando Spark, PySpark, Delta Lake e Unity Catalog, também com arquitetura Medallion.
-
-**[Desafio_Geofusion](https://github.com/EmidioLP/Desafio_Geofusion)** — Desafio de Ciência de Dados com dados demográficos do Rio de Janeiro: imputação de valores faltantes e previsão de faturamento por regressão, comparando Regressão Linear, Random Forest e redes neurais (melhor modelo: R² 0.92).
- 
  ## Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,git,anaconda,vscode,mysql,sqlite,mongodb,postgres,linux,windows)](https://skillicons.dev)    
 
