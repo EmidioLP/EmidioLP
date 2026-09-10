@@ -3,7 +3,7 @@
 Bacharel em Ciência da Computação pela **UERN**, com foco em Python, automação e dados.
  
  ## Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=py,flask,sklearn,js,nextjs,react,tailwind,html,css,git,vscode,docker,mysql,mongodb,linux)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=py,flask,js,nextjs,react,tailwind,html,css,git,vscode,docker,mysql,mongodb,linux)](https://skillicons.dev)    
 
 ## Contatos
 <div>
