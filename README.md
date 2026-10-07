@@ -19,12 +19,6 @@
 ## 👋 Sobre mim
 
 Bacharel em **Ciência da Computação pela UERN**, de Baraúna/RN, com foco em **Engenharia e Análise de Dados**.
-Gosto de construir o caminho inteiro do dado: coletar na fonte, versionar o histórico, modelar em camadas e entregar algo que as pessoas consigam consultar — uma API, um dashboard ou um relatório.
-
-- 🔧 Construo **pipelines automatizados** com Python, SQL e GitHub Actions
-- 🏗️ Modelo dados em **Arquitetura Medallion** (Bronze → Silver → Gold) e **star schema**
-- 📊 Transformo dados em **dashboards e análises** que respondem perguntas reais
-- 🌱 Estudando **Databricks** a fundo: Unity Catalog, Delta Lake, Asset Bundles e Genie
 
 > *"In God we trust. All others, bring data."* — W. Edwards Deming
 
