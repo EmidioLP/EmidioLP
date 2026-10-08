@@ -11,7 +11,6 @@
 <p>
   <a href="https://www.linkedin.com/in/emidio-lopes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:emidio551@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=EmidioLP&style=for-the-badge&color=203a43&label=VISITAS" alt="Visitas ao perfil" />
 </p>
 
 </div>
